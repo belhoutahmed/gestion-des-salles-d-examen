@@ -1,0 +1,4 @@
+1	AmphiA	60	1
+2	AmphiB	60	1
+3	AmphiC	60	1
+4	AmphiD	60	1
